@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.sav
+*.json
+*.zip
+
+# Ignorar carpetas comunes de datos
+data/
+datos/
